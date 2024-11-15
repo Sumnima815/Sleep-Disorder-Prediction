@@ -5,6 +5,6 @@ This project aims to identify and predict sleep disorders using machine learning
 Project Overview
 Goal: Predict the likelihood of different sleep disorders
 Technologies Used: Python, Pandas, scikit-learn
-Algorithms: Machine Learning classifiers (e.g., Logistic Regression, Random Forest)
+Algorithms: Machine Learning classifiers (e.g.Decision Tree, Random Forest)
 
 The project results provide insights into the model’s accuracy and key predictors of sleep disorders.
